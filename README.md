@@ -4,6 +4,8 @@ Membuat apk kasir rumah makan
 - MUHAMMAD AJI YOGA P (23050974130)
 - AHMAD DHABY S.BAGUS (23050974131)
 - NAAYLA NURUNNABIYLAH (23050974149)
+
+  
 Fungsi-Fungsi Dari Apk ini
 1.bisa memilih menu yang di inginkan pembeli
 2.bisa meinput harga jika kalau harga naik
