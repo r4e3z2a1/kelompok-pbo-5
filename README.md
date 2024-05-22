@@ -8,7 +8,11 @@ Membuat apk kasir rumah makan
   
 Fungsi-Fungsi Dari Apk ini
 1.bisa memilih menu yang di inginkan pembeli
+
 2.bisa meinput harga jika kalau harga naik
+
 3.langsung total yang di pesen sama pembeli
+
 4.mudah di pilih menu
+
 5.meringankan pekerjaan 
